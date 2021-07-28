@@ -4,7 +4,7 @@ const newCatBtn = document.getElementById('new-cat')
 // Imagen gatos
 window.onload = shufflePics;
 const images = document.querySelectorAll("img");
-const url = "https://source.unsplash.com/collection/139386/200x200/?sig=";
+const url = "https://source.unsplash.com/collection/139386/500x500/?sig=";
 
 // Random number generator
 
